@@ -1,0 +1,8 @@
+D:\!DG\!PROJECT\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+D:\!DG\!PROJECT\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+D:\!DG\!PROJECT\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+D:\!DG\!PROJECT\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+D:\!DG\!PROJECT\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+D:\!DG\!PROJECT\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+D:\!DG\!PROJECT\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+D:\!DG\!PROJECT\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
